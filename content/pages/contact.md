@@ -46,6 +46,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Montaigne | Bordeaux | [alessandre.laguierce@protonmail.com](mailto:alessandre.laguierce@protonmail.com)
 | Paul Valery | Paris 12 | [matteo.delfour@protonmail.com](mailto:matteo.delfour@protonmail.com)
 | Pierre De Fermat | Toulouse | [indisponible](mailto:)
+| Henri Poincaré | Nancy | [louis.delion1007@gmail.com](mailto:louis.delion1007@gmail.com)
 | Saint-Louis | Paris 06 | [fusetim.log@gmx.com](mailto:fusetim.log@gmx.com)
 | Thiers | Marseille 01 | [camille_fabre26@protonmail.com](mailto:camille_fabre26@protonmail.com)
 | Victor Hugo | Besançon | [alexis.chavy@protonmail.com](mailto:alexis.chavy@protonmail.com)
